@@ -6,14 +6,14 @@ import { Typewriter } from 'react-simple-typewriter';
 
 const About = () => {
   return (
-    <div className="min-h-screen  flex items-center py-17">
+    <div id="about" className="min-h-screen  flex items-center ">
       <div className="w-[90%] xl:w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
         {/* Text Content */}
         <div className="text-white flex flex-col items-start">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-semibold">Hello,I am Pavithra</h1>
           <span className='flex justify-center lg:justify-start gap-2'>
-          <h1 className="text-1xl sm:text-2xl md:text-2xl font-semibold text-white">I'm a</h1>
-          <h1 className="text-xl sm:text-2xl md:text-5xl font-semibold text-red-500">
+          <h1 className="text-1xl sm:text-2xl md:text-3xl font-semibold text-white">I'm a</h1>
+          <h1 className="text-1xl sm:text-2xl md:text-3xl font-semibold text-red-500">
       <Typewriter
         words={[
           'Front End Developer',

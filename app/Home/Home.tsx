@@ -7,7 +7,7 @@ import Education from './Education/Education'
 
 const Home = () => {
   return (
-    <div>
+    <div className='w-full max-w-screen-xl mx-auto px-4'>
       <About/>
       <Experience/>
       <Education/>

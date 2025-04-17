@@ -4,7 +4,7 @@ import Heading from '../Helper/Heading'
 
 const Contact = () => {
   return (
-    <div className='flex flex-col items-center justify-center mx-auto text-center bg-[#191919] pt-14 gap-6 pb-5 px-4'>
+    <div id="contact" className='flex flex-col items-center justify-center mx-auto text-center bg-[#191919] pt-14 gap-6 pb-5 px-4'>
       <Heading heading='Get In Touch'/>
       
 
