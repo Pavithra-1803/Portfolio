@@ -13,7 +13,7 @@ const Experience = () => {
                         <div className="ms-5 lg:ms-6">
                             <div className="flex flex-col md:flex-row md:items-center gap-2 md:gap-4">
                                 <p className="text-lg md:text-xl font-bold text-white">
-                                    Software Engineer at "Alferix"
+                                    {"Software Engineer at 'Alferix'"}
                                 </p>
                                 <p className="text-sm font-bold bg-[#1DAB45]/10 text-[#1DAB45] px-3 py-1 rounded-[6px] w-fit">
                                     Full Time
@@ -23,7 +23,7 @@ const Experience = () => {
                                 </p>
                             </div>
                             <p className="text-[#bec3ca] text-sm mt-4 md:mt-5 pl-0 md:pl-10">
-                                Crafted FXDX v2's UX/UI with innovative features, targeting a 60% user satisfaction boost. Executed Landing Page v2 for FXDX Exchange, increasing user engagement by 30% and conversion rates by 20%. Created impactful marketing materials, achieving a 20% increase in engagement and expanding audience reach by 15%.
+                                {"Crafted FXDX v2's UX/UI with innovative features, targeting a 60% user satisfaction boost. Executed Landing Page v2 for FXDX Exchange, increasing user engagement by 30% and conversion rates by 20%. Created impactful marketing materials, achieving a 20% increase in engagement and expanding audience reach by 15%."}
                             </p>
                         </div>
                     </li>
@@ -34,7 +34,7 @@ const Experience = () => {
                         <div className="ms-5 lg:ms-6">
                             <div className="flex flex-col md:flex-row md:items-center gap-2 md:gap-4">
                                 <p className="text-lg md:text-xl font-bold text-white">
-                                    Software Engineer-L2 at "RND Softech Pvt"
+                                    {"Software Engineer-L2 at 'RND Softech Pvt'"}
                                 </p>
                                 <p className="text-sm font-bold bg-[#1DAB45]/10 text-[#1DAB45] px-3 py-1 rounded-[6px] w-fit">
                                     Full Time
@@ -44,7 +44,7 @@ const Experience = () => {
                                 </p>
                             </div>
                             <p className="text-[#bec3ca] text-sm mt-4 md:mt-5 pl-0 md:pl-10">
-                                Crafted FXDX v2's UX/UI with innovative features, targeting a 60% user satisfaction boost. Executed Landing Page v2 for FXDX Exchange, increasing user engagement by 30% and conversion rates by 20%. Created impactful marketing materials, achieving a 20% increase in engagement and expanding audience reach by 15%.
+                                {"Crafted FXDX v2's UX/UI with innovative features, targeting a 60% user satisfaction boost. Executed Landing Page v2 for FXDX Exchange, increasing user engagement by 30% and conversion rates by 20%. Created impactful marketing materials, achieving a 20% increase in engagement and expanding audience reach by 15%."}
                             </p>
                         </div>
                     </li>
