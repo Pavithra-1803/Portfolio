@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react'
-import { ImCrop, ImCross } from 'react-icons/im';
+import {  ImCross } from 'react-icons/im';
 
 interface prop{
   showNav:boolean

@@ -9,7 +9,7 @@ const Contact = () => {
       
 
       <p className='text-sm md:text-xl  sm:w-[650px] text-[#CACACA] text-pretty font-sans'>
-        Ready to bring your ideas to life? Let's collaborate! Whether you're a startup, established company, or individual with a vision, I'm here to help. From concept to execution, let's create something amazing together.
+       {"Ready to bring your ideas to life? Let's collaborate! Whether you're a startup, established company, or individual with a vision, I'm here to help. From concept to execution, let's create something amazing together."} 
       </p>
 
       <a className="text-base font-semibold underline underline-offset-4 text-[#CACACA]" href="mailto:pavitrapavi1803@gmail.com">
