@@ -11,11 +11,11 @@ const Projects = () => {
   ];
 
   return (
-    <div>
+    <div  id="projects" className='mt-12 mb-12 px-4 md:px-16 lg:px-10'>
       <Heading heading="Projects" />
 
       <div
-        id="projects"
+       
         className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-content-between gap-10 xl:gap-20 px-4 md:px-16 lg:px-40"
       >
         {projects.map((project, index) => (
