@@ -18,7 +18,7 @@ const Nav = ({ openNav }: Prop) => {
 
         {/* Nav Links */}
         <ul className="hidden lg:flex text-white items-center space-x-6 xl:space-x-10">
-          {['About', 'Experience', 'Project', 'Education', 'Contact'].map((item) => (
+          {['About', 'Experience', 'Projects', 'Education', 'Contact'].map((item) => (
             <li key={item} className="navlink capitalize">
               <Link href={`#${item.toLowerCase()}`}>{item}</Link>
             </li>
